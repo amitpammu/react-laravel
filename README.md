@@ -47,3 +47,6 @@ composer require laravel/ui
 
     // Generate login / registration scaffolding...
     php artisan ui react --auth
+    
+    
+`Please run "npm install && npm run dev" to compile your fresh scaffolding.`
