@@ -49,4 +49,6 @@ composer require laravel/ui
     php artisan ui react --auth
     
     
-`Please run "npm install && npm run dev" to compile your fresh scaffolding.`
+## `Please run "npm install && npm run dev" to compile your fresh scaffolding.`
+
+## `please run npm run watch to watch the react component changes and display to the latest code in the browser`
