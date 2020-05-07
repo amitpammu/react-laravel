@@ -80,9 +80,7 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
-                    Laravel
-                </div>
+            <div  id="example" class="flex-center position-ref full-height"> </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
@@ -96,5 +94,6 @@
                 </div>
             </div>
         </div>
+            <script src="{{ asset('js/app.js') }}"></script>
     </body>
 </html>
